@@ -1,0 +1,11 @@
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\KMU_Dispatcher.dll
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\KMU_Dispatcher.pdb
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\ParallelExtensionsExtras.dll
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\System.ValueTuple.dll
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\ParallelExtensionsExtras.pdb
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\bin\Debug\System.ValueTuple.xml
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\obj\Debug\KMU_Dispatcher.csproj.CoreCompileInputs.cache
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\obj\Debug\KMU_Dispatcher.csproj.CopyComplete
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\obj\Debug\KMU_Dispatcher.dll
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\obj\Debug\KMU_Dispatcher.pdb
+D:\MOD\DispatchEngine\KMU_Dispatcher\KMU_Dispatcher\obj\Debug\KMU_Dispatcher.csproj.AssemblyReference.cache
